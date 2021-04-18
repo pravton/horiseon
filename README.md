@@ -8,9 +8,9 @@ User want a codebase that follows accessibilty standards so the the site is opti
 
 ## Content Of This Project
 <li> index.html </li>
-<li> .gitignore </li>
 <li> style.css </li>
 <li> /images </li>
+<li> .gitignore </li>
 <li> README.md </li>
 
 
