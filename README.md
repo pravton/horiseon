@@ -2,9 +2,11 @@
 
 ## Introduction
 This is an assignment project on the module one. The task is to refactor the code to  more accessible. 
+>### NOTE
+>This layout is designed for "desktop", so some of the elements don't look like the **Final Output** when viewed at a resolution smaller than 768px.
 
 ## User Story
-User want a codebase that follows accessibilty standards so the the site is optimized for search engines. 
+User wants a codebase that follows accessibilty standards so the the site is optimized for search engines. 
 
 ## Content Of This Project
 <li> index.html </li>
@@ -21,6 +23,9 @@ User want a codebase that follows accessibilty standards so the the site is opti
 <li> Updated the content and benefit section </li>
 <li> Updated the ALT tags for images </li>
 <li> Used same classes to minimize CSS code</li>
+
+## Final Project Link
+[**Click Here**](https://duckduckgo.com) to view the project in Github Pages.
 
 ## Final Output
 ![Final Output Of The Website](./assets/images/final-output.png "Final Output Of The Website")
