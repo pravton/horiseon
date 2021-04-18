@@ -9,8 +9,10 @@ User want a codebase that follows accessibilty standards so the the site is opti
 ## Content Of This Project
 <li> index.html </li>
 <li> .gitignore </li>
-<li> style.css</li>
+<li> style.css </li>
+<li> /images </li>
 <li> README.md </li>
+
 
 ## Changes Made
 <li> Updated the Header and Nav link </li>
@@ -21,7 +23,7 @@ User want a codebase that follows accessibilty standards so the the site is opti
 <li> Used same classes to minimize CSS code</li>
 
 ## Final Output
-![Final Outpu Of The Website](./assets/images/final-output.png "Final Outpu Of The Website")
+![Final Output Of The Website](./assets/images/final-output.png "Final Output Of The Website")
 
 
 
